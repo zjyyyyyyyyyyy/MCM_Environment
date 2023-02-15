@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.9.19)  15 FEB 2023 11:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.9.19)  15 FEB 2023 12:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -533,7 +533,7 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box74
 )
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 29.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 30.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -543,24 +543,24 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 ) (./2102199.aux)
 \openout1 = `2102199.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -598,7 +598,7 @@ LaTeX Font Info:    ... okay on input line 29.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 29.
+(lastpage)             ! on input line 30.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -624,7 +624,7 @@ Package caption Info: End \AtBeginDocument code.
 \makeMPintoPDFobject=\count332
 \everyMPtoPDFconversion=\toks41
 )
-Package hyperref Info: Link coloring ON on input line 29.
+Package hyperref Info: Link coloring ON on input line 30.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -634,9 +634,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count333
 )
-LaTeX Info: Redefining \ref on input line 29.
-LaTeX Info: Redefining \pageref on input line 29.
-LaTeX Info: Redefining \nameref on input line 29.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
  (./2102199.out) (./2102199.out)
 \@outlinefile=\write4
 \openout4 = `2102199.out'.
@@ -649,15 +649,15 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Overfull \hbox (3.84409pt too wide) in paragraph at lines 34--35
+Overfull \hbox (3.84409pt too wide) in paragraph at lines 35--36
 []\T1/ppl/m/n/12 Global warm-ing, El Ni�o... With the emer-gence of var-i-ous ex-treme cli-mates,\T1/ppl/b/n/12 Austral-
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -670,9 +670,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <img//Fire_Situation.png, id=94, 888.31876pt x 355.3275pt>
 File: img//Fire_Situation.png Graphic file (type png)
 <use img//Fire_Situation.png>
-Package pdftex.def Info: img//Fire_Situation.png  used on input line 68.
+Package pdftex.def Info: img//Fire_Situation.png  used on input line 69.
 (pdftex.def)             Requested size: 318.66948pt x 127.46777pt.
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 83.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 84.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 ) [3
@@ -681,21 +681,21 @@ File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 <img//Literature_Review.png, id=107, 867.24pt x 490.83376pt>
 File: img//Literature_Review.png Graphic file (type png)
 <use img//Literature_Review.png>
-Package pdftex.def Info: img//Literature_Review.png  used on input line 104.
+Package pdftex.def Info: img//Literature_Review.png  used on input line 105.
 (pdftex.def)             Requested size: 386.96027pt x 219.00826pt.
  [4 <./img//Literature_Review.png>]
 <img//Flow_Chart.png, id=120, 914.66719pt x 385.44pt>
 File: img//Flow_Chart.png Graphic file (type png)
 <use img//Flow_Chart.png>
-Package pdftex.def Info: img//Flow_Chart.png  used on input line 122.
+Package pdftex.def Info: img//Flow_Chart.png  used on input line 123.
 (pdftex.def)             Requested size: 409.71692pt x 172.6524pt.
 
-Overfull \hbox (2.61809pt too wide) in paragraph at lines 131--133
+Overfull \hbox (2.61809pt too wide) in paragraph at lines 132--134
 \T1/ppl/b/it/12 Explanation:\T1/ppl/m/n/12 The UAV's ra-di-a-tion com-mu-ni-ca-tion range is only af-fected
  []
 
 
-Overfull \hbox (6.29243pt too wide) in paragraph at lines 137--139
+Overfull \hbox (6.29243pt too wide) in paragraph at lines 138--140
 []\T1/ppl/b/n/12 The col-lected data can be con-sid-ered re-li-able and can re-flect the chang-
  []
 
@@ -703,16 +703,16 @@ Overfull \hbox (6.29243pt too wide) in paragraph at lines 137--139
 <img//Data_Screening(1).png, id=140, 220.4235pt x 144.2115pt>
 File: img//Data_Screening(1).png Graphic file (type png)
 <use img//Data_Screening(1).png>
-Package pdftex.def Info: img//Data_Screening(1).png  used on input line 205.
+Package pdftex.def Info: img//Data_Screening(1).png  used on input line 209.
 (pdftex.def)             Requested size: 204.85846pt x 134.02727pt.
 <img//Data_Screening(2).png, id=141, 211.554pt x 126.4725pt>
 File: img//Data_Screening(2).png Graphic file (type png)
 <use img//Data_Screening(2).png>
-Package pdftex.def Info: img//Data_Screening(2).png  used on input line 207.
+Package pdftex.def Info: img//Data_Screening(2).png  used on input line 211.
 (pdftex.def)             Requested size: 204.85846pt x 122.47168pt.
 
-/workspaces/WebLaTex/2102199.tex:223: Undefined control sequence.
-l.223 \lipsum
+/workspaces/WebLaTex/2102199.tex:227: Undefined control sequence.
+l.227 \lipsum
              [1-4]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -722,66 +722,66 @@ and I'll forget about whatever was undefined.
 
 [7 <./img//Data_Screening(1).png> <./img//Data_Screening(2).png>]
 
-/workspaces/WebLaTex/2102199.tex:308: Package inputenc Error: Unicode character 如 (U+5982)
+/workspaces/WebLaTex/2102199.tex:312: Package inputenc Error: Unicode character 如 (U+5982)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308         1, & \text{如果 }
+l.312         1, & \text{如果 }
                                   x \in \mathbb{Q};                      \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-/workspaces/WebLaTex/2102199.tex:308: Package inputenc Error: Unicode character 果 (U+679C)
+/workspaces/WebLaTex/2102199.tex:312: Package inputenc Error: Unicode character 果 (U+679C)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308         1, & \text{如果 }
+l.312         1, & \text{如果 }
                                   x \in \mathbb{Q};                      \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-/workspaces/WebLaTex/2102199.tex:309: Package inputenc Error: Unicode character 如 (U+5982)
+/workspaces/WebLaTex/2102199.tex:313: Package inputenc Error: Unicode character 如 (U+5982)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309         0, & \text{如果 }
+l.313         0, & \text{如果 }
                                   x \in \mathbb{R} \setminus \mathbb{Q}.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-/workspaces/WebLaTex/2102199.tex:309: Package inputenc Error: Unicode character 果 (U+679C)
+/workspaces/WebLaTex/2102199.tex:313: Package inputenc Error: Unicode character 果 (U+679C)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309         0, & \text{如果 }
+l.313         0, & \text{如果 }
                                   x \in \mathbb{R} \setminus \mathbb{Q}.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 [8]
 
-/workspaces/WebLaTex/2102199.tex:317: LaTeX Error: File `"figure/comap logo"' not found.
+/workspaces/WebLaTex/2102199.tex:321: LaTeX Error: File `"figure/comap logo"' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.317 ...width=0.7\linewidth]{"figure/comap logo"}
+l.321 ...width=0.7\linewidth]{"figure/comap logo"}
                                                   
 I could not locate the file with any of these extensions:
 .pdf,.jpg,.jpeg,.png,.eps
@@ -789,7 +789,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
 []\T1/ppl/m/n/12 GLOBAL FOR-EST WHATCH OF AUS-TRALIA
  []
 
@@ -802,18 +802,18 @@ Package rerunfilecheck Info: File `2102199.out' has not changed.
 (rerunfilecheck)             Checksum: 1606A2B619AFC8FF03048880E2435A20;1921.
  ) 
 Here is how much of TeX's memory you used:
- 16468 strings out of 478599
- 244448 string characters out of 5854100
+ 16467 strings out of 478599
+ 244433 string characters out of 5854100
  744166 words of memory out of 5000000
  33983 multiletter control sequences out of 15000+600000
  426804 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,80p,786b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on 2102199.pdf (10 pages, 925144 bytes).
+Output written on 2102199.pdf (10 pages, 925108 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
- 62 named destinations out of 1000 (max. 500000)
+ 259 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 500000)
  146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
